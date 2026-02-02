@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-02-02",
+  "summary": {
+    "totalActive": 6,
+    "totalValue": 0,
+    "byStage": {
+      "prospecting": 1,
+      "qualification": 0,
+      "proposal": 2,
+      "negotiation": 2,
+      "closed-won": 1
+    }
+  },
+  "deals": [
+    {
+      "id": "deal-001",
+      "name": "TrueVA - DBS Singapore",
+      "company": "trueva",
+      "product": "Elwyn",
+      "stage": "proposal",
+      "value": null,
+      "probability": 60,
+      "expectedClose": "2026-03-05",
+      "assignedTo": "Reed",
+      "priority": "P0"
+    },
+    {
+      "id": "deal-002",
+      "name": "CIMB - OneRM VR/AI",
+      "company": "cimb",
+      "product": "Elwyn",
+      "stage": "closed-won",
+      "value": null,
+      "actualClose": "2026-02-02",
+      "assignedTo": "Reed",
+      "priority": "P0"
+    },
+    {
+      "id": "deal-003",
+      "name": "Humani Santika - Partnership",
+      "company": "humani-santika",
+      "product": "All",
+      "stage": "prospecting",
+      "value": null,
+      "expectedClose": null,
+      "assignedTo": "Reed",
+      "priority": "P1"
+    },
+    {
+      "id": "deal-004",
+      "name": "Dearezt - ASTRA",
+      "company": "dearezt",
+      "product": "Aivident",
+      "stage": "negotiation",
+      "value": null,
+      "expectedClose": "2026-02-28",
+      "assignedTo": "Reed",
+      "priority": "P1"
+    },
+    {
+      "id": "deal-005",
+      "name": "Talenta/Mekari - Integration",
+      "company": "talenta-mekari",
+      "product": "Aivident",
+      "stage": "negotiation",
+      "value": null,
+      "expectedClose": "2026-02-15",
+      "assignedTo": "Reed",
+      "priority": "P1"
+    },
+    {
+      "id": "deal-006",
+      "name": "DayaLima - BPJS Expansion",
+      "company": "dayalima",
+      "product": "Aivident",
+      "stage": "proposal",
+      "value": null,
+      "expectedClose": null,
+      "assignedTo": "Reed",
+      "priority": "P2"
+    }
+  ]
+}
