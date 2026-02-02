@@ -3,13 +3,15 @@
   "lastUpdated": "2026-02-02",
   "summary": {
     "totalActive": 6,
+    "totalClosed": 1,
     "totalValue": 0,
     "byStage": {
       "prospecting": 1,
       "qualification": 0,
       "proposal": 2,
-      "negotiation": 2,
-      "closed-won": 1
+      "negotiation": 3,
+      "closed-won": 1,
+      "closed-lost": 0
     }
   },
   "deals": [
@@ -22,12 +24,37 @@
       "value": null,
       "probability": 60,
       "expectedClose": "2026-03-05",
+      "deadline": "2026-03-05",
       "assignedTo": "Reed",
       "priority": "P0"
     },
     {
-      "id": "deal-002",
-      "name": "CIMB - OneRM VR/AI",
+      "id": "deal-007",
+      "name": "Dearezt - ASTRA",
+      "company": "dearezt",
+      "product": "Aivident",
+      "stage": "negotiation",
+      "value": null,
+      "probability": 50,
+      "expectedClose": "2026-02-28",
+      "assignedTo": "Reed",
+      "priority": "P1"
+    },
+    {
+      "id": "deal-008",
+      "name": "Humani Santika - Onboarding",
+      "company": "humani-santika",
+      "product": "All",
+      "stage": "prospecting",
+      "value": null,
+      "probability": 30,
+      "expectedClose": "2026-03-15",
+      "assignedTo": "Reed",
+      "priority": "P1"
+    },
+    {
+      "id": "deal-009",
+      "name": "CIMB - 1RM VR/AI",
       "company": "cimb",
       "product": "Elwyn",
       "stage": "closed-won",
@@ -37,46 +64,26 @@
       "priority": "P0"
     },
     {
-      "id": "deal-003",
-      "name": "Humani Santika - Partnership",
-      "company": "humani-santika",
-      "product": "All",
-      "stage": "prospecting",
-      "value": null,
-      "expectedClose": null,
-      "assignedTo": "Reed",
-      "priority": "P1"
-    },
-    {
-      "id": "deal-004",
-      "name": "Dearezt - ASTRA",
-      "company": "dearezt",
-      "product": "Aivident",
-      "stage": "negotiation",
-      "value": null,
-      "expectedClose": "2026-02-28",
-      "assignedTo": "Reed",
-      "priority": "P1"
-    },
-    {
-      "id": "deal-005",
+      "id": "deal-010",
       "name": "Talenta/Mekari - Integration",
-      "company": "talenta-mekari",
+      "company": "talenta",
       "product": "Aivident",
       "stage": "negotiation",
       "value": null,
+      "probability": 60,
       "expectedClose": "2026-02-15",
       "assignedTo": "Reed",
       "priority": "P1"
     },
     {
-      "id": "deal-006",
-      "name": "DayaLima - BPJS Expansion",
+      "id": "deal-011",
+      "name": "DayaLima - BPJS Case Study",
       "company": "dayalima",
       "product": "Aivident",
       "stage": "proposal",
       "value": null,
-      "expectedClose": null,
+      "probability": 70,
+      "expectedClose": "2026-02-28",
       "assignedTo": "Reed",
       "priority": "P2"
     }
