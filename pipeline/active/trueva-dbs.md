@@ -44,12 +44,22 @@ TrueVA (led by Swee Siong Lee) is partnering with WTL to deliver Elwyn AI sales 
 
 ## Product Requirements
 
-Based on TrueVA weekly syncs:
+Based on TrueVA weekly syncs (Jan 26):
 
 1. **Turn-based speech mode** must be default (classroom setting requires pause/discuss)
-2. **Live mode** should be optional
-3. **Q&A knowledge section** — needs to be restored in scenario editor
-4. **Partnership agreement with pricing** — required before DBS goes live
+2. **Live mode** should be optional — user chooses before scenario
+3. **Q&A knowledge section** — being added to system
+4. **Assessment summary** — should indicate which speech mode was used
+5. **Scenario editor** — needs to be easier to use
+6. **Firewall/loading** — check before live deployment
+7. **Partnership agreement with pricing** — required before DBS goes live
+
+## Key Decisions (Jan 26)
+
+1. Live speech mode = optional feature
+2. Assessment results indicate speech mode used
+3. Q&A knowledge section will be added
+4. William to set up Dionisi partner meeting
 
 ---
 
@@ -82,6 +92,11 @@ Based on TrueVA weekly syncs:
 - [ ] Prepare partnership agreement (PKS)
 - [ ] Coordinate DBS firewall test
 - [ ] Finalize turn-based speech mode as default
+- [ ] Investigate scenario version issues
+- [ ] Enhance results screen with date info
+- [ ] Provide DBS test link
+- [ ] Create WhatsApp group chat
+- [ ] Send adjusted partnership agreement
 
 ---
 

@@ -60,25 +60,30 @@ wtl-partnerships/
 
 ---
 
-## Active Pipeline Summary
+## Active Pipeline Summary (10 deals)
 
-| Partner | Product | Stage | Value | Next Action | Last Update |
-|---------|---------|-------|-------|-------------|-------------|
-| TrueVA | Elwyn | Proposal | TBD | Pricing doc for DBS | 2026-02-02 |
-| CIMB | Elwyn/1RM | Closed-Won | Rp X | VR/AI approved | 2026-02-02 |
-| Humani Santika | All | Onboarding | TBD | NDA/PKS | 2026-02-02 |
-| Dearezt | Aivident | Active | Ongoing | ASTRA deal | 2026-01-30 |
-| DayaLima | Aivident | Active | Rp X | BPJS case study | 2026-01-30 |
-| Talenta | Aivident | Negotiation | TBD | PKS discussion Feb 4 | 2026-01-28 |
+| Partner | Product | Stage | Priority | Deadline |
+|---------|---------|-------|----------|----------|
+| TrueVA | Elwyn | Proposal | P0 | Mar 5 |
+| CIMB | Elwyn/1RM | Closed-Won | P0 | Sep 2026 |
+| Dearezt | Aivident | Negotiation | P1 | Feb 28 |
+| Talenta | Aivident | Negotiation | P1 | Feb 15 |
+| Aligna | Nora | Negotiation | P1 | Mar 15 |
+| Humani Santika | All | Prospecting | P1 | Mar 15 |
+| DayaLima | Aivident | Proposal | P2 | Feb 28 |
+| CanPlus | Canvas | Proposal | P2 | Apr 30 |
+| Wahana | Custom | Prospecting | P3 | Jun 30 |
 
 ---
 
 ## Auto-Sync Status
 
 - **Nomo MCP:** Connected ✅
-- **Last sync:** 2026-02-02 15:30 UTC
-- **Meetings indexed:** 20
-- **Entities extracted:** 12
+- **Cron:** Daily 6:00 AM
+- **Last sync:** 2026-02-03
+- **Meetings indexed:** 50+
+- **Entities:** 17 people, 9 companies
+- **Deals:** 9 active, 1 closed-won
 
 ---
 

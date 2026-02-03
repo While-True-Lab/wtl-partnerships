@@ -1,17 +1,25 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2026-02-02",
+  "version": "1.1",
+  "lastUpdated": "2026-02-03",
   "summary": {
-    "totalActive": 6,
+    "totalActive": 9,
     "totalClosed": 1,
-    "totalValue": 0,
+    "totalValue": null,
     "byStage": {
-      "prospecting": 1,
+      "prospecting": 2,
       "qualification": 0,
-      "proposal": 2,
-      "negotiation": 3,
+      "proposal": 3,
+      "negotiation": 4,
       "closed-won": 1,
       "closed-lost": 0
+    },
+    "byProduct": {
+      "Elwyn": 2,
+      "Aivident": 3,
+      "Nora": 1,
+      "Canvas": 1,
+      "Custom": 1,
+      "All": 1
     }
   },
   "deals": [
@@ -26,7 +34,8 @@
       "expectedClose": "2026-03-05",
       "deadline": "2026-03-05",
       "assignedTo": "Reed",
-      "priority": "P0"
+      "priority": "P0",
+      "file": "pipeline/active/trueva-dbs.md"
     },
     {
       "id": "deal-007",
@@ -38,7 +47,8 @@
       "probability": 50,
       "expectedClose": "2026-02-28",
       "assignedTo": "Reed",
-      "priority": "P1"
+      "priority": "P1",
+      "file": "pipeline/active/dearezt-astra.md"
     },
     {
       "id": "deal-008",
@@ -50,7 +60,8 @@
       "probability": 30,
       "expectedClose": "2026-03-15",
       "assignedTo": "Reed",
-      "priority": "P1"
+      "priority": "P1",
+      "file": "pipeline/active/humani-santika-onboarding.md"
     },
     {
       "id": "deal-009",
@@ -61,7 +72,8 @@
       "value": null,
       "actualClose": "2026-02-02",
       "assignedTo": "Reed",
-      "priority": "P0"
+      "priority": "P0",
+      "file": "pipeline/closed/cimb-1rm-vr.md"
     },
     {
       "id": "deal-010",
@@ -73,7 +85,8 @@
       "probability": 60,
       "expectedClose": "2026-02-15",
       "assignedTo": "Reed",
-      "priority": "P1"
+      "priority": "P1",
+      "file": "pipeline/active/talenta-integration.md"
     },
     {
       "id": "deal-011",
@@ -85,7 +98,47 @@
       "probability": 70,
       "expectedClose": "2026-02-28",
       "assignedTo": "Reed",
-      "priority": "P2"
+      "priority": "P2",
+      "file": "pipeline/active/dayalima-bpjs-case-study.md"
+    },
+    {
+      "id": "deal-012",
+      "name": "Aligna - Nora Trials",
+      "company": "aligna",
+      "product": "Nora",
+      "stage": "negotiation",
+      "value": null,
+      "probability": 70,
+      "expectedClose": "2026-03-15",
+      "assignedTo": "Reed",
+      "priority": "P1",
+      "file": "pipeline/active/aligna-nora-trials.md"
+    },
+    {
+      "id": "deal-013",
+      "name": "CanPlus - Sevima LMS",
+      "company": "canplus",
+      "product": "Canvas",
+      "stage": "proposal",
+      "value": null,
+      "probability": 50,
+      "expectedClose": "2026-04-30",
+      "assignedTo": "Reed",
+      "priority": "P2",
+      "file": "pipeline/active/canplus-sevima.md"
+    },
+    {
+      "id": "deal-014",
+      "name": "Wahana - Financial Literacy",
+      "company": "wahana-pak-edi",
+      "product": "Custom",
+      "stage": "prospecting",
+      "value": 360000000,
+      "probability": 30,
+      "expectedClose": "2026-06-30",
+      "assignedTo": "Reed",
+      "priority": "P3",
+      "file": "pipeline/active/wahana-finlit.md"
     }
   ]
 }

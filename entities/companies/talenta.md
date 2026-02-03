@@ -16,8 +16,10 @@ Major HRIS platform in Indonesia (34,000+ companies). Potential integration part
 
 ## Key Contacts
 
-- **Chrysius** — Partnership lead at Mekari
-- **Akis** — Technical/Integration
+- **Chrysius** — Partnership lead at Mekari (key decision maker)
+- **Akis** — Technical/Integration (NDA entity discussions)
+- **Irwanto Widyatri** — Participant
+- **Reni Meilani** — Participant
 
 ## Partnership Discussion
 
