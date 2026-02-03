@@ -2,7 +2,7 @@
   "version": "1.1",
   "lastUpdated": "2026-02-03",
   "summary": {
-    "totalActive": 9,
+    "totalActive": 10,
     "totalClosed": 1,
     "totalValue": null,
     "byStage": {
@@ -139,6 +139,19 @@
       "assignedTo": "Reed",
       "priority": "P3",
       "file": "pipeline/active/wahana-finlit.md"
+    },
+    {
+      "id": "deal-015",
+      "name": "OMNIVR - Healthcare Aivident",
+      "company": "omnivr-medinfras",
+      "product": "Aivident",
+      "stage": "prospecting",
+      "value": null,
+      "probability": 40,
+      "expectedClose": "2026-04-30",
+      "assignedTo": "Reed",
+      "priority": "P2",
+      "file": "pipeline/active/omnivr-healthcare.md"
     }
   ]
 }
