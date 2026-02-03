@@ -6,7 +6,8 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
-NOMO_API_KEY="${NOMO_API_KEY:-$(grep NOMO_API_KEY /etc/environment 2>/dev/null | cut -d'"' -f2)}"
+NOMO_API_KEY="${NOMO_API_KEY:-$(grep NOMO_API_KEY ~/.bashrc 2>/dev/null | cut -d'"' -f2)}"
+export NOMO_API_KEY
 
 if [ -z "$NOMO_API_KEY" ]; then
     echo "Error: NOMO_API_KEY not found"
