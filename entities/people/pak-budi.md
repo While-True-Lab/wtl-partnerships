@@ -1,25 +1,41 @@
 ---
 id: ent-005
-name: Pak Budi
+name: Frans Budi Santika
 company: humani-santika
-role: Director / Primary Contact
+role: Founder / Leadership Communication Strategist
 decision_maker: true
 first_met: 2026-01-29
 last_contact: 2026-01-29
 tags: [new-partner, all-products, onboarding]
+osint_verified: true
 ---
 
-# Pak Budi
+# Frans Budi Santika (Pak Budi)
 
 ## Background
 
-Director at Humani Santika (PT Rumah Santika). Primary contact for new partnership.
+**Founder, PT Humani Santika Indonesia & HeartSpeaks Indonesia**  
+**Leadership Communication Strategist**
+
+## Profile (OSINT Verified)
+
+| Field | Value |
+|-------|-------|
+| **Full Name** | Frans Budi Santika |
+| **Organizations** | PT Humani Santika Indonesia, HeartSpeaks Indonesia |
+| **Founded** | HeartSpeaks Indonesia (2011) |
+| **Experience** | 20+ years, 25,000+ people trained, 100+ companies |
+| **Education** | S1 Philosophy, S2 Communication |
+| **Phone** | +6282211265885 |
+| **Email** | cs@humanisantika.id |
+| **LinkedIn** | [fransbudisantika](https://id.linkedin.com/in/fransbudisantika) |
+| **Website** | [humanisantika.id](https://humanisantika.id) |
 
 ## Company
 
 **Humani Santika:** HR training and consulting firm
 - Network: Catholic trainers, financial/property/corporate secretary professionals
-- Entity: PT Rumah Santika (verified)
+- Entity: PT Humani Santika Indonesia (legal)
 
 ## Partnership Stage
 
@@ -28,7 +44,7 @@ Director at Humani Santika (PT Rumah Santika). Primary contact for new partnersh
 
 ## Meeting History
 
-- 2026-01-29: Initial meeting — see `~/clawd/memory/2026-01-30.md`
+- 2026-01-29: Initial meeting (112 min via Nomo)
 
 ## Next Steps
 
@@ -38,15 +54,16 @@ Director at Humani Santika (PT Rumah Santika). Primary contact for new partnersh
 4. Prepare enablement kit
 5. Plan onboarding meeting
 
-## Communication
+## Strategic Value
 
-- Early stage relationship
-- Open to multi-product partnership
-- Needs full enablement
+- 20+ years experience, 25K people trained
+- 100+ companies in network
+- Leadership communication expertise
+- Multi-product potential
 
 ## Notes
 
-- New partner — high potential but early
+- Highly experienced trainer
+- Strong network
 - Multi-product opportunity
-- No specific deals in pipeline yet
 - Focus on enablement and trust-building
